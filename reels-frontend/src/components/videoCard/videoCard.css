@@ -1,0 +1,11 @@
+.video-card{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:600px;
+    width: 600px;
+    margin:10px auto;
+    border:2px solid rgb(216, 213, 213);
+    background-color: aliceblue;
+}
